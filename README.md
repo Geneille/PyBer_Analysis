@@ -12,6 +12,10 @@ Bike ridesharing data was collected for different cities and needs to analyzed. 
 2. Python and Jupyter notebook
 3. Pandas and Matplotlib libraries
 
+## Analysis
+
+The code written to perform the analysis can be found in the The PyBer_Challenge.ipynb file.
+
 ## Results 
 
 The table below summarizes the data according to city type. The following observations can be made
