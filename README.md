@@ -2,9 +2,7 @@
 
 ## Overview and Objectives
 
-Ridesharing data was collected for different cities and needs to analyzed. The data categorize based on city type (rural, urban, and suburban), can be used to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
-
-The purpose of this project was:
+Bike ridesharing data was collected for different cities and needs to analyzed. The data, categorize based on city type (rural, urban, and suburban), can be used to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. The purpose of this project was:
 * to produce a summary report of the ride sharing data by city type, including total drivers, total rides, total fares, average fare per drive and average fare per driver. 
 
 * to create a multiple line graph that shows total weekly fares by each city type. 
