@@ -2,9 +2,7 @@
 
 ## Overview and Objectives
 
-Ridesharing data was collected for different cities and needs to analyzed. The data categorize based on city type (rural, urban, and suburban), can be used to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
-
-The purpose of this project was:
+Bike ridesharing data was collected for different cities and needs to analyzed. The data, categorize based on city type (rural, urban, and suburban), can be used to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. The purpose of this project was:
 * to produce a summary report of the ride sharing data by city type, including total drivers, total rides, total fares, average fare per drive and average fare per driver. 
 
 * to create a multiple line graph that shows total weekly fares by each city type. 
@@ -21,9 +19,18 @@ The table below summarizes the data according to city type. The following observ
 * Rural cities have the least amount of drivers, rides and total fares while urban cities have the most within each of these categories. 
 * In contrast, rural cities have the highest average fare per ride and fare per driver while urban cities have the lowest average of fare per ride and fare per driver.
 
+Table 1
+
+<img width="385" alt="Screenshot 2021-12-05 174013" src="https://user-images.githubusercontent.com/92636438/144766777-2ec8e24f-cc1c-4872-ad4b-ff1a63a13d8a.png">
+
 Figure 1 below shows how the fares for each city type varies across the months January to about May. Clearly, urban cities have the highest total fares whereas rural cities is consistently the lowest. There is a stark contrast in the total fares between the city types. Rural cities accumulates approximately $4,000, ranging from a low of about $70 to a high of about $500, whereas urban cities accumulates approximatey ten times more (about $40,000) over the same period considered, ranging from about $1,700 to $2,400. Suburban cities tallies about $20,000 ranging from a low of about $700 to a high of about $1,400.
 
 A noteworthy observation that can be made for each city type is that the total fares are fairly consistent across the months considered. In other words, although there are some fluctuations, which is expected, there is no major deviation or spikes. A regression line through these graphs would produce a small slope. However, there is a spike toward the end of February for the Suburban cities and this needs to explored further.
+
+Figure 1.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/92636438/144766806-71926722-5b3f-485d-aad0-f9e64bc9e40e.png)
+
   
 ## Summary and Recommendations
 
